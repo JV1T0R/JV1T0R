@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo ao meu perfil.
 
-- Estudando: Python, Criptografia (SHA256), HTML, CSS
+- Estudando: SASS, Vue router, Vue x
 - Buscando: Estágio
 
 ##
