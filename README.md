@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo ao meu perfil.
 
-- Estudando: javascript, Vue, Java, Sass, 
+- Estudando: Javascript, Vue, Java, Sass, 
 - Buscando: Estágio
 
 ##
