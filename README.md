@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo ao meu perfil.
 
-- Estudando: Análise de Dados com Python.
+- Estudando: Análise de Dados com Python e JavaScript.
 - Buscando: Estágio.
 
 ##
