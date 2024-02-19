@@ -1,7 +1,6 @@
-### Olá! Seja bem vindo ao meu perfil.
+### Olá, Seja bem vindo ao meu perfil.
 
-- Estudando: JavaScript, C e Estrututra de Dados.
-- Buscando: Estágio.
+- Estudando: Progrmação Fullstack na Infinityschool.
 
 ##
 
