@@ -1,6 +1,6 @@
 ### Olá, Seja bem vindo ao meu perfil.
 
-- Estudando: Progrmação Fullstack na Infinityschool.
+- Estudando: Progrmação Fullstack na Infinity School.
 
 ##
 
