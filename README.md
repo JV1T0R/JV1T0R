@@ -1,5 +1,6 @@
 ### Olá, Seja bem vindo ao meu perfil.
 
+Atualmente Estou Me Dedicando A:
 - Estudando: Progrmação Fullstack na Infinityschool.
 
 ##
