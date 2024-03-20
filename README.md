@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&section=header"/>
 
-<h1 align="center">&#10022; Hi, welcome to my profile. &#10022;</h1>
+<h1 align="center">&#10022; Hi, I'm João and welcome to my profile! &#10022;</h1>
 
 <div align="center"><br>
   <a href="https://github.com/JV1T0R">
@@ -11,7 +11,7 @@
 ##
     
 <div>
-  <h3>My skills</h3>
+  <h3>My skills:</h3>
   <img align="center" alt="HTML-logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS=logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Tailwind=logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />      
@@ -22,8 +22,10 @@
   <img align="center" alt="Mysql-logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">     
 </div>
 
+##
+
 <div>
-  <h3>Contact</h3>
+  <h3>Contact me:</h3>
   <a href = "jvticontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3opamponet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
