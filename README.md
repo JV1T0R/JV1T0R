@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=89ddff&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&section=header"/>
 
-<h1 align="center">&nbsp;&#10022; Hi, welcome to my profile. &nbsp;&#10022;</h1>
+<h1 align="center">&#10022; Hi, welcome to my profile. &#10022;</h1>
 
 <div align="center"><br>
   <a href="https://github.com/JV1T0R">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JV1T0R&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JV1T0R&theme=tokyonight&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JV1T0R&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     
@@ -28,4 +28,4 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3opamponet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=89ddff&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&section=footer"/>
