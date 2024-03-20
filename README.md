@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&section=header"/>
 
 <h1 align="center">&#10022; Hi, welcome to my profile. &#10022;</h1>
 
@@ -28,4 +28,4 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3opamponet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&section=footer"/>
