@@ -1,13 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&section=header"/>
 
-<h1 align="center">&#10022; Hi, I'm João and welcome to my profile! &#10022;</h1>
+<h1 align="center">&#10022; Welcome to my profile! &#10022;</h1>
 
 <div align="center"><br>
-  <a href="https://github.com/JV1T0R">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JV1T0R&theme=tokyonight&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JV1T0R&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="500px" align="right" alt="A professional animation coder gif"/>
+  <div align="left">
+    <a href="https://github.com/JV1T0R">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JV1T0R&theme=tokyonight&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JV1T0R&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
 </div>
     
+##
+
+<div>
+  <h3 align="left">My interests:</h3>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=%38bdae&size=25&Left=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Web+Development;Cybersecurity;UI+/+UX+Design" width="auto" height="35"/>
+  </p>
+</div>
+
 ##
     
 <div>
