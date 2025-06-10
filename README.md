@@ -31,9 +31,9 @@
 
 <div>
   <h3>Contact me:</h3>
-  <a href = "jvticontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3opamponet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://joaopamponet.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href ="mailto:jvticontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3opamponet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://joaopamponet.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&section=footer"/>
