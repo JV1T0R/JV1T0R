@@ -38,6 +38,13 @@
 </div>
 
 ##
+    
+<div>
+  <h3>My skills:</h3>
+  [![My Skills](https://skillicons.dev/icons?i=html,css, sass, tailwindcss, bootstrap, js, )](https://skillicons.dev)          
+</div>
+
+##
 
 <div>
   <h3>Contact me:</h3>
