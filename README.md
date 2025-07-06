@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&section=header"/>
 
-<h1 align="center">&#10022; Welcome to my profile! &#10022;</h1>
+<h1 align="center">Welcome to my profile!</h1>
 
 <div align="center"><br>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" align="right" alt="A professional animation coder gif"/>
