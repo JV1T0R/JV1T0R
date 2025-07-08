@@ -16,7 +16,7 @@
 <div>
   <h3 align="left">My interests:</h3>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=%38bdae&size=25&Left=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Web+Development;Cybersecurity;UI+/+UX+Design" width="auto" height="35"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=%38bdae&size=25&Left=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Development;Cybersecurity;UI+/+UX+Design;Kaizen (改善)" width="auto" height="35"/>
   </p>
 </div>
 
