@@ -33,7 +33,7 @@
   <h3>Contact me:</h3>
   <a href ="mailto:jvticontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3opamponet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://joaopamponet.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-020617?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://joaopamponet.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-020617?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&section=footer"/>
