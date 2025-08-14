@@ -24,7 +24,7 @@
     
 <div>
   <h3>My skills:</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,py,flask,mysql,postgres,netlify,vercel" />         
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,py,flask,mysql,postgres,vite,netlify,vercel" />         
 </div>
 
 ##
