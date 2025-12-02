@@ -38,4 +38,3 @@ I’m always exploring **development**, **UI/UX** and applying the philosophy of
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&section=footer" />
-
