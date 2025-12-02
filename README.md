@@ -4,11 +4,13 @@
 
 <div align="center"><br>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" align="right" alt="A professional animation coder gif"/>
+  <!-- 
   <div align="left">
     <a href="https://github.com/JV1T0R">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JV1T0R&theme=tokyonight&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JV1T0R&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
+  -->
 </div>
     
 ##
